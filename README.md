@@ -18,26 +18,22 @@ https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset?utm_source=
 - Python: Pandas, Matplotlib
 📊 Tasks
 
-SQL or python
-Customer analysis
-How many customers are there by job type?
-Loan analysis
-How many customers have loans?
-Deposit subscriptions
-How many customers subscribed for deposit?
-Python
-Age distribution
+- SQL or python
+  - Customer analysis
+      - How many customers are there by job type?
+  -  Loan analysis
+      -  How many customers have loans?
+  -  Deposit subscriptions
+      - How many customers subscribed for deposit?
+-Python
+    - Age distribution
+    - What is the age distribution of customers? (histogram)
+    - Average Age?
 
-What is the age distribution of customers? (histogram)
-
-Average Age?
-
-Correlation Analysis - - Which numeric columns are related?
-
-Correlation Heatmap
-
-Value counts
-
-Customers with Highest Balance
+- Correlation Analysis -
+     - Which numeric columns are related?
+-  Correlation Heatmap
+- Value counts
+- Customers with Highest Balance
 Average Balance by Job
 Deposit Subscription Rate
