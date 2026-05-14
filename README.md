@@ -1,4 +1,4 @@
-***Retail Sales Data Analysis***
+***1. Retail Sales Data Analysis***
 
 📌 Objective - Analyze sales performance and trends 
 🧰 Tools 
@@ -9,7 +9,7 @@
 - Top products
 - total orders
 
-***Bank Marketing Data Analysis*** 
+***2. Bank Marketing Data Analysis*** 
 
 📂 Dataset Link-
 https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset?utm_source=chatgpt.com Bank Marketing Dataset
